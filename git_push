@@ -1,0 +1,3 @@
+git remote add origin  https://github.com/glenn-edgar/redis-graph
+git remote -v
+git push origin master
